@@ -1,2 +1,4 @@
 This is sample.
 add samething editted.
+pull obtain the contents of remote repository
+
